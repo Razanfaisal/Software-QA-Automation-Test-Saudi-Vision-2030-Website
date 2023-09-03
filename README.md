@@ -15,6 +15,3 @@ Test Documents :
 - RTM
 - Test Resault Report
 - Test Summary
-
-  # Presentation Files
-  -
