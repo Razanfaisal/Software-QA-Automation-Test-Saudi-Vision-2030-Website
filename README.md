@@ -8,7 +8,7 @@ This Project focus on testing the
 # Test Files
 Test Documents :
 - SRS
-- Automation Test Plan
+- [Automation Test Plan] (https://docs.google.com/document/d/1PsNrkSr9CiJ4s-IANbNIjVoC-Lgtbn09/edit?usp=drive_link&ouid=103465358764050455707&rtpof=true&sd=true)
 - Test Scenario
 - Test Case
 - Bug Report
